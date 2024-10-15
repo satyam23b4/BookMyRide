@@ -27,7 +27,7 @@ This is a web-based Ride Booking App built using React.js and Chakra-UI, allowin
 
 ## Deployment
 
-The application is deployed using [Vercel](https://vercel.com/), providing a seamless and optimized online experience.
+The application is deployed using [Vercel][(https://vercel.com/)](https://vercel.com/satyam-bhattacharjees-projects/book-my-ride?status=building%2Cerror%2Cinitializing%2Cqueued%2Cready), providing a seamless and optimized online experience.
 
 ### Live Demo
 [Ride Sharing App on Vercel](https://your-vercel-deployment-url) *(replace with your actual Vercel deployment URL)*
