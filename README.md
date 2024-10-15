@@ -36,4 +36,4 @@ The application is deployed using [Vercel][(https://vercel.com/)], providing a s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/FJ-FE-R2-Your-Name-Your-College.git
+   git clone https://github.com/satyam23b4/BookMyRide
