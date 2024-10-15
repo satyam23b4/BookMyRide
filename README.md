@@ -1,6 +1,6 @@
 # Ride Booking App
 
-This is a web-based Ride Sharing App built using React.js and Chakra-UI, allowing users to book rides, track ride history, and manage profiles. It offers basic features like user authentication, ride booking, and payment integration, as well as additional functionalities like live chat, dark mode, and mobile responsiveness.
+This is a web-based Ride Booking App built using React.js and Chakra-UI, allowing users to book rides, track ride history, and manage profiles. It offers basic features like user authentication, ride booking, and payment integration, as well as additional functionalities like live chat, dark mode, and mobile responsiveness.
 
 ## Features
 
